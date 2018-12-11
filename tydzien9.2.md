@@ -5,3 +5,4 @@
 ## Network Watcher ![Network Watcher](images/tydzien9_NW.png)
 ## MySQL1  ![MySQL1](images/tydzien9_mysql_err.png)
 ## MySQL2 ![MySQL2](images/tydzien9_mysql_err2.png)
+## Application Gateway ![Application Gateway](/images/tydzien9_APP_GW.png) 
