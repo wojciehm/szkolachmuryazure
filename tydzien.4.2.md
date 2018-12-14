@@ -1,4 +1,5 @@
-  az group create --name chmurowiskoRG --location westeurope
+```console
+az group create --name chmurowiskoRG --location westeurope
 az vmss create \
   --resource-group chmurowiskoRG \
   --name chmurowiskoSC \
