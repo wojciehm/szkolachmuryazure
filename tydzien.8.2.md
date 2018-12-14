@@ -14,4 +14,4 @@ public static void Run(IReadOnlyList<Document> input, ILogger log)
 
 
 ### Zrzut ekranu
-![CosmosDB functio]n(images/tydzien8.2_cosmosDB_function.png)
+![CosmosDB function](images/tydzien8.2_cosmosDB_function.png)
