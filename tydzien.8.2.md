@@ -12,3 +12,6 @@ public static void Run(IReadOnlyList<Document> input, ILogger log)
     }
 }
 
+
+### Zrzut ekranu
+!CosmosDB function[](images/tydzien8.2_cosmosDB_function.png)
