@@ -30,5 +30,6 @@ https://www.facebook.com/groups/496118867464879/permalink/517333698676729/
 
 https://www.facebook.com/groups/496118867464879/permalink/530998043976961/
 
+### Tydzień 9: Networks
 
-Tydzień 9: Networks
+https://www.facebook.com/groups/496118867464879/permalink/531550083921757/
